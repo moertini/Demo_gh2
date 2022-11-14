@@ -1,2 +1,3 @@
 baris ditambahkan di repo lokal
-ini juga di lokal
+ini juga di lokal edit di remote
+tambahan di remote
